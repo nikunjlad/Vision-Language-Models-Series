@@ -30,7 +30,7 @@ def main(args):
 
     # Load the pretranied ColPali model
     try:
-        rag = RAGMultiModalModel.from_pretrained("vidore/colpali")
+        rag = RAGMultiModalModel.from_pretrained("vidore/colqwen2-v1.0")
     except Exception as e:
         print(f"Error loading the ColPali model: {e}")
         traceback.print_exc()
