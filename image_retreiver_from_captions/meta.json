@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "path": "/home/nikunj/research/Vision-Language-Models-Series/data/grounding-test-images/img1.jpg",
+    "caption": "people walking down a sidewalk in front of a wall with posters of wanted men"
+  },
+  {
+    "id": 1,
+    "path": "/home/nikunj/research/Vision-Language-Models-Series/data/grounding-test-images/img2.jpg",
+    "caption": "there is a sign that says the movie is in russian"
+  },
+  {
+    "id": 2,
+    "path": "/home/nikunj/research/Vision-Language-Models-Series/data/grounding-test-images/img3.jpg",
+    "caption": "arafed advertisement of a man in a suit and tie walking down a hallway"
+  },
+  {
+    "id": 3,
+    "path": "/home/nikunj/research/Vision-Language-Models-Series/data/grounding-test-images/img4.jpg",
+    "caption": "araffe advertising billboards on a street with trees in the background"
+  },
+  {
+    "id": 4,
+    "path": "/home/nikunj/research/Vision-Language-Models-Series/data/grounding-test-images/img5.jpg",
+    "caption": "pedestrians and bicyclists pass a billboard advertising a movie"
+  },
+  {
+    "id": 5,
+    "path": "/home/nikunj/research/Vision-Language-Models-Series/data/grounding-test-images/img6.jpg",
+    "caption": "pedestrians walk past a wall with a variety of posters on it"
+  }
+]

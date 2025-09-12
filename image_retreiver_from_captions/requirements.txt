@@ -1,0 +1,10 @@
+torch
+torchvision
+pillow
+sentence-transformers
+transformers
+faiss-cpu
+tqdm
+numpy
+qdrant-client
+opencv-python
