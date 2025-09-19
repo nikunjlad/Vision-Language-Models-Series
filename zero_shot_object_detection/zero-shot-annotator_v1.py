@@ -10,9 +10,9 @@ from pathlib import Path
 detector = pipeline('zero-shot-object-detection', model='google/owlv2-base-patch16-ensemble')
 
 # classes for detection
-classes = ['person', 'vehicle', 'weapon', 'street sign', 'animal']
+classes = ['man', 'soldier', 'woman', 'vehicle', 'weapon', 'street_sign', 'animal']
 class2id = {c:i for i,c in enumerate(classes)}
-colors = ['red', 'blue', 'green', 'yellow', 'purple']
+colors = ['red', 'red', 'red', 'blue', 'green', 'yellow', 'purple']
 
 # data folders
 src_folder = Path('/home/nikunj/research/Vision-Language-Models-Series/data/zero-shot-test-images')
